@@ -1,0 +1,29 @@
+[33mcommit 9e4013bd7a28071da04a3633103cb98df3f2f204[m[33m ([m[1;36mHEAD -> [m[1;32mStagingBranch[m[33m)[m
+Author: Marko Milovanovic <marko.milovanovic@at.zurich.com>
+Date:   Mon Apr 24 13:55:22 2023 +0200
+
+    Commit from StagingBranch
+
+[33mcommit f8920f763c17c12d09496ea03cbcb7c8f9381052[m[33m ([m[1;32mThirdBranch[m[33m, [m[1;32mMyTestMaster[m[33m, [m[1;32mFourthBranch[m[33m, [m[1;32mFifthBranch[m[33m)[m
+Author: Marko Milovanovic <marko.milovanovic@at.zurich.com>
+Date:   Thu Apr 20 16:55:58 2023 +0200
+
+    Adding a file to the third branch
+
+[33mcommit bbdbea283e1badddc759cd7a4e74c6e09e0953eb[m[33m ([m[1;32mSecondBranch[m[33m)[m
+Author: Marko Milovanovic <marko.milovanovic@at.zurich.com>
+Date:   Thu Apr 20 15:47:02 2023 +0200
+
+    This is my second commit
+
+[33mcommit 899e6262cc4df4bd7243a6a000d990e4ac8fa05f[m
+Author: Marko Milovanovic <marko.milovanovic@at.zurich.com>
+Date:   Thu Apr 20 14:57:18 2023 +0200
+
+    My First commit
+
+[33mcommit 190ba090076b14cac2cf9cb85b43bcd0e09a0aac[m
+Author: Marko Milovanovic <marko.milovanovic@at.zurich.com>
+Date:   Thu Apr 20 14:30:08 2023 +0200
+
+    commit message
